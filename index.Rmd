@@ -29,5 +29,8 @@ Hello Umair
 
 Hello Dosi
 
+--- .class #id 
 
+## Slide 4
 
+Hello Dosi Again
