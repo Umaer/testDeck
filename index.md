@@ -1,5 +1,5 @@
 ---
-title       : Test deck
+title       : 
 subtitle    : 
 author      : 
 job         : 
@@ -8,6 +8,7 @@ highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
 ---
 
 ## Read-And-Delete
@@ -20,11 +21,13 @@ mode        : selfcontained # {standalone, draft}
 
 ## Slide 2
 
+Hello Umair
 
-```r
-plot(1:10, 1:10)
-```
+--- .class #id 
 
-![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
+## Slide 3
+
+Hello Dosi
+
 
 
