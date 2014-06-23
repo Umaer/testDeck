@@ -1,7 +1,7 @@
 ---
-title       : 
+title       : My Simple Calculator
 subtitle    : 
-author      : 
+author      : Umaer
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
@@ -11,26 +11,26 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Read-And-Delete
+## Project
 
-1. Edit YAML front matter
-2. Write using R Markdown
-3. Use an empty line followed by three dashes to separate slides!
+The project is very simple calculator build in R Shiny Apps
 
 --- .class #id 
 
-## Slide 2
+## Calculator Operation
 
-Hello Umair
-
---- .class #id 
-
-## Slide 3
-
-Hello Dosi
+Calculator is very simple to use.
+Just click on slider to change number and click on operation and see results
 
 --- .class #id 
 
-## Slide 4
+## Furthur enhancement
 
-Hello Dosi Again
+In future version I will add some more functionality and some more features  and functions like sin, cos etc plus some graphics functionality as well
+
+--- .class #id 
+
+## Project Experience
+It was a very good experience to build this project
+
+
